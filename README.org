@@ -1,10 +1,10 @@
 * Spring 2023 - Lab 01
 
-* Last name: 
+* Last name: Kapoor
 
-* First name: 
+* First name: Jatin
 
-* GitHub username: 
+* GitHub username: jatinkapoor1021
 
 * Notes:
 
