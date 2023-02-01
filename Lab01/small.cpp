@@ -1,6 +1,7 @@
-//Jatin Kapoor;
-//jatinkapoor1021
-
+/*
+Jatin Kapoor;
+jatinkapoor1021
+*/
 
 #include <iostream> 
 using namespace std;
