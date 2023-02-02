@@ -1,3 +1,11 @@
+/*
+Jatin Kapoor;
+jatinkapoor1021
+Determines the smallest of three numbers
+*/
+
+
+
 #include <iostream> 
 using namespace std;
  
@@ -28,5 +36,3 @@ int main() {
       cout << "The smaller of the three is "  << n3;
   }
 } 
-
-

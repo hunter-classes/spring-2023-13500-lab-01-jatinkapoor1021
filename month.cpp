@@ -1,3 +1,10 @@
+/*
+Jatin Kapoor;
+jatinkapoor1021
+Determines the number of days in a month in any year
+*/
+
+
 #include <iostream>
 using namespace std;
 

@@ -1,3 +1,10 @@
+/*
+Jatin Kapoor;
+jatinkapoor1021
+Determine whether the year is a leap year or common year
+*/
+
+
 #include <iostream>
 using namespace std;
 
