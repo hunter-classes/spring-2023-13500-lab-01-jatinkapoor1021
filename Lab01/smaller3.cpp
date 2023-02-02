@@ -1,6 +1,7 @@
 /*
 Jatin Kapoor;
 jatinkapoor1021
+Determines the smallest of three numbers
 */
 
 
