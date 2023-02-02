@@ -8,6 +8,8 @@ Determines the number of days in a month in any year
 #include <iostream>
 using namespace std;
 
+
+
 int Count_of_days(int month_count, int year_count)
 {
 if( month_count == 2)
@@ -36,10 +38,10 @@ return 30;
 int main()
 {
 int days=0, month, year;
-cout << "Enter year: ";
-cin >> year;
-cout << "Enter month: ";
-cin >> month;
+std::cout << "Enter year: ";
+std::cin >> year;
+std::cout << "Enter month: ";
+std::cin >> month;
 days = Count_of_days(month, year);
 cout<<endl<<days << " days" << endl;;
 return 0;
