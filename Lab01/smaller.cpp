@@ -1,6 +1,7 @@
 /*
 Jatin Kapoor;
 jatinkapoor1021
+Determines the smaller of two numbers
 */
 
 #include <iostream> 
